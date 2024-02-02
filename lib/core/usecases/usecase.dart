@@ -1,7 +1,7 @@
-    
- import 'package:dartz/dartz.dart';
- import 'package:equatable/equatable.dart';
- import '../errors/failures.dart';
+/*
+
+import 'package:dartz/dartz.dart';
+import 'package:equatable/equatable.dart';
 
 
 abstract class UseCase<Type, Params> {
@@ -12,4 +12,4 @@ class NoParams extends Equatable {
   @override
   List<Object> get props => [];
 }
-       
+*/
