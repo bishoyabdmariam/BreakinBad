@@ -2,7 +2,7 @@ import 'package:breakingbad/core/resources/app_strings.dart';
 import 'package:breakingbad/features/series/presentation/screens/characteres_screen.dart';
 import 'package:flutter/material.dart';
 
-import '../features/series/presentation/screens/characters_details_screen.dart';
+import '../../features/series/presentation/screens/characters_details_screen.dart';
 
 class AppRouter {
   Route? generateRoutes(RouteSettings settings) {
